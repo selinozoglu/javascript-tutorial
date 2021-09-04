@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Selin Özoğlu",
+        "department":"Bilişim",
+        "salary":4500 
+    },
+    {
+        "name":"Dilek Özoğlu",
+        "department":"Bilişim",
+        "salary":3500 
+    },
+    {
+        "name":"Oğuzhan Şenyuva",
+        "department":"Teknoloji",
+        "salary":5600
+    }
+]
